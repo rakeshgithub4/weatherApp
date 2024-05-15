@@ -1,0 +1,28 @@
+.box {
+  width: 25vw;
+  height: 60vh;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.2rem rgba(0, 0, 0, 0.2);
+  background: lightblue;
+  margin: auto;
+}
+
+.city {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+.cityField {
+  margin: auto;
+  height: 40px;
+  width: 200px;
+  border-radius: 5px;
+  border: solid white;
+}
+
+.weatherInfo {
+  margin: auto;
+}
+.nodata {
+  padding: 80px;
+}
